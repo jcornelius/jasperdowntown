@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: true
 # Preston Property Group
 
 <p>Our partners have acquired, renovated, and rehabilitated commercial properties since 2003.</p>
-<p>Our focus in on office, light retail and food service properties valued between $150,000 to $3,000,000, with an emphasis on local business operators in the Metro Atlanta area.</p>
+<p>Our focus in on office, light retail, and food service properties valued between $150,000 to $3,000,000, with an emphasis on local business operators in the Metro Atlanta area.</p>
