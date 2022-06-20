@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Preston Property Group'
+title: 'Jasper Downtown'
 
 google_analytics_id: ""
 
@@ -13,10 +13,10 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'Copyright 2021 - Preston Property Group, LLC'
+  copyright_text: 'Copyright 2022 - Jasper Downtown'
 
 seo:
-  meta_og_title: "Preston Property Group"
+  meta_og_title: "Jasper Downtown"
   meta_og_type: "website"
   meta_og_url: ""
   meta_og_image: ""
