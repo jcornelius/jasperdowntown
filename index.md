@@ -37,7 +37,7 @@ We currently own and operate <a href="https://www.firstmountaintasting.com">Firs
 - Consignment shop 
 - Fabric Store
 - Tailor & Alterations 
-- Kombucha (bar like the real cool one at Lee & White St., Golda Kombucha)
+- Kombucha Bar
 - Coffee Roasting
 - Provisions shop, charcuterie boards, etc.
 - Deli & Butcher
