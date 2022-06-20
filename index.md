@@ -10,11 +10,11 @@ Like any small town, Main Street is the beating heart of Jasper. It's been on li
 
 Since 1996, our partners have built numerous businesses generating over $100,000,000 of revenue and creating hundreds of jobs. We have acquired, renovated, and rehabilitated commercial properties since 2008. 
 
-We currently own and operate <a href="https://www.firstmountaintasting.com">First Mountain Tasting Room</a>, and that's just the beginning. We have purchased several properties on Main Street, most recently the building at 35 N Main St, and we plan to make more significant investments in Downtown Jasper over the next 36 months.
+We currently own and operate <a href="https://www.firstmountaintasting.com">First Mountain Tasting Room</a>, and it's just the beginning. We have purchased several properties on Main Street, most recently the building at 35 N Main St, and we plan to make more significant investments in Downtown Jasper over the next 36 months.
 
 ## You’re here because we want your opinion. 
 
-What does Jasper needs most? Let us know what you think of the ideas below, or email us and add your own.
+**What does Jasper need most?** Let us know what you think of the ideas below, or email us and add your own.
 
 - Coworking / Business Center / Shipping
 - Yoga / Pure Barre / Dance
