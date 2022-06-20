@@ -53,7 +53,7 @@ We currently own and operate <a href="https://www.firstmountaintasting.com">Firs
 - Massage / Feet retreat
 
 
-# Interested in working in, operating, owning, or investing in any of these businesses - or Downtown Jasper in general?
+## Interested in working in, operating, owning, or investing in any of these businesses - or Downtown Jasper in general?
 
 <a href="mailto:ideas@jasperdowntown.com" class="button">Get In Touch</a>
 
