@@ -1,7 +1,7 @@
 ---
 title: Jasper Downtown
 layout: page
-description: An investment group who believes in downtown Jasper, GA.
+description: An investment group who believes in downtown Jasper.
 ---
 
 # We believe in Downtown Jasper, GA.
