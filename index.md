@@ -15,7 +15,7 @@ Since 1996 our partners have built numerous businesses generating over $100MM in
 
 We currently own and operate First Mountain Tasting Room. We have purchased several properties on Main Street, most recently the building at 35 N Main St, and we plan to make more significant investments in Downtown Jasper over the next 36 months.
 
-###You’re here because we want your opinion on what Jasper needs most. Let us know what you think of the ideas below, or add your own.
+### You’re here because we want your opinion on what Jasper needs most. Let us know what you think of the ideas below, or add your own.
 
 - Coworking / Business Center / Shipping
 - Yoga / Pure Barre / Dance
@@ -53,9 +53,6 @@ We currently own and operate First Mountain Tasting Room. We have purchased seve
 - Acupuncture / holistic healing services
 - Massage / Feet retreat
 
-----
 
-### Interested in working in, operating, owning, or investing in any of these businesses - or downtown Jasper in general?
-
-Get in touch.
+### Interested in working in, operating, owning, or investing in any of these businesses - or Downtown Jasper in general? Get in touch.
 
