@@ -1,6 +1,6 @@
 ---
 title: Jasper Downtown
-layout: home
+layout: default
 description: An investment group who believes in downtown Jasper, GA.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
