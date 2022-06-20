@@ -2,20 +2,15 @@
 title: Jasper Downtown
 layout: page
 description: An investment group who believes in downtown Jasper, GA.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
 ---
 
-# Jasper Downtown
-
-### We believe in downtown Jasper, specifically Main Street and the surrounding area. 
+# We believe in downtown Jasper, specifically Main Street and the surrounding area. 
 
 Since 1996 our partners have built numerous businesses generating over $100MM in revenue and creating hundreds of jobs. We have acquired, renovated, and rehabilitated commercial properties since 2003.
 
 We currently own and operate First Mountain Tasting Room. We have purchased several properties on Main Street, most recently the building at 35 N Main St, and we plan to make more significant investments in Downtown Jasper over the next 36 months.
 
-### You’re here because we want your opinion on what Jasper needs most. Let us know what you think of the ideas below, or add your own.
+## You’re here because we want your opinion on what Jasper needs most. Let us know what you think of the ideas below, or add your own.
 
 - Coworking / Business Center / Shipping
 - Yoga / Pure Barre / Dance
@@ -54,5 +49,7 @@ We currently own and operate First Mountain Tasting Room. We have purchased seve
 - Massage / Feet retreat
 
 
-### Interested in working in, operating, owning, or investing in any of these businesses - or Downtown Jasper in general? Get in touch.
+## Interested in working in, operating, owning, or investing in any of these businesses - or Downtown Jasper in general? Get in touch.
+
+<a href="mailto:ideas@jasperdowntown.com" class="button">ideas@jasperdowntown.com</a>
 
