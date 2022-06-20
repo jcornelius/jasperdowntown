@@ -1,10 +1,10 @@
 ---
 title: Jasper Downtown
 layout: page
-description: An investment group who believes in downtown Jasper.
+description: An investment group who believes in downtown Jasper, GA.
 ---
 
-# We believe in Downtown Jasper, GA.
+# We believe in Downtown Jasper.
 
 Like any small town, Main Street is the beating heart of Jasper. It's been on life support for too long. We intend to help revive downtown Jasper to once again be prosperous and thriving with locally owned small businesses supporting the community. 
 
