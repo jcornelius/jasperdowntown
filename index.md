@@ -28,9 +28,7 @@ Welcoming of people from diverse backgrounds & social groups.
 
 # Let's Build a Thriving Community 
 
-Since 1996, our partners have built numerous businesses generating over $100,000,000 of revenue and creating hundreds of jobs. We have acquired, renovated, and rehabilitated commercial properties since 2008. 
-
-We currently own and operate <a href="https://www.firstmountaintasting.com">First Mountain Tasting Room</a>, and it's just the beginning. We have purchased several properties on Main Street, most recently the building at 35 N Main St, and we plan to make more significant investments in Downtown Jasper and the surrounding area.
+Since 1996, our partners have built numerous businesses generating over $100,000,000 of revenue and creating hundreds of jobs. We have acquired, renovated, and rehabilitated commercial properties since 2008. We currently own and operate <a href="https://www.firstmountaintasting.com">First Mountain Tasting Room</a>, and it's just the beginning. We have purchased several properties on Main Street, most recently the building at 35 N Main St, and we plan to make more significant investments in Downtown Jasper and the surrounding area.
 
 ## You’re here because we want your opinion. 
 
