@@ -1,10 +1,9 @@
 ---
-title: Three Factors | Jasper Downtown
+title: Three Key Factors
 layout: page
 description: Three key factors for a thriving community.
 ---
 
-# Three Key Factors
 
 According to a the [Knight Foundation - Soul of the Community](https://knightfoundation.org/sotc/overall-findings/) survey, there are three key factors to long-term and sustainable success of small communities.
 
