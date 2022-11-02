@@ -64,9 +64,7 @@ Since 1996, our partners have built numerous businesses generating over $100,000
 - Donut Shop / Pastries / Beignets
 - Food Trucks / Food Truck Park
 - Bed & Breakfast
-- Chiropractor
 - Wellness Center
-- More accountants and attorneys
 - Acupuncture / holistic healing services
 - Massage / Feet retreat
 
