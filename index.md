@@ -9,6 +9,25 @@ description: An investment group who believes in downtown Jasper, GA.
 
 Like any small town, Main Street is the beating heart of Jasper. It's been on life support for too long. We intend to help revive downtown Jasper to once again be prosperous and thriving with locally owned small businesses supporting the community. 
 
+According to a the [Knight Foundation - Soul of the Community](https://knightfoundation.org/sotc/overall-findings/) survey, there are three key factors to long-term and sustainable success of small communities.
+
+## Social Offerings
+
+- Vibrant Nightlife & Meeting Places
+- Arts & Cultural Opportunities
+- Social Community Events
+
+## Openness
+
+Welcoming of people from diverse backgrounds & social groups.
+
+## Beauty
+
+- Parks, Playgrounds, and Trails
+- Beauty or Physical Setting
+
+# Let's Build a Thriving Community 
+
 Since 1996, our partners have built numerous businesses generating over $100,000,000 of revenue and creating hundreds of jobs. We have acquired, renovated, and rehabilitated commercial properties since 2008. 
 
 We currently own and operate <a href="https://www.firstmountaintasting.com">First Mountain Tasting Room</a>, and it's just the beginning. We have purchased several properties on Main Street, most recently the building at 35 N Main St, and we plan to make more significant investments in Downtown Jasper and the surrounding area.
