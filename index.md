@@ -30,13 +30,13 @@ Welcoming of people from diverse backgrounds & social groups.
 
 Since 1996, our partners have built numerous businesses generating over $100,000,000 of revenue and creating hundreds of jobs. We have acquired, renovated, and rehabilitated commercial properties since 2008. We currently own and operate <a href="https://www.firstmountaintasting.com">First Mountain Tasting Room</a>, and it's just the beginning. We have purchased several properties on Main Street, most recently the building at 35 N Main St, and we plan to make more significant investments in Downtown Jasper and the surrounding area.
 
-## You’re here because we want your opinion. 
+# You’re here because we want your opinion. 
 
 **What does Jasper need most?** Let us know what you think of the ideas below, or email us and add your own.
 
 - Coworking / Business Center / Shipping
 - Yoga / Pure Barre / Dance
-- Beauty Spa / Salon (non-hair). Zinney?
+- Beauty Spa / Salon (non-hair).
 - Art Gallery
 - Bicycle Shop / Repairs
 - Outdoor / Hiking / Camping / Fishing Outfitter
@@ -44,7 +44,7 @@ Since 1996, our partners have built numerous businesses generating over $100,000
 - Sporting Goods Store (Golf, Baseball, etc.)
 - Tattoo Parlor
 - Hydration Station
-- Tavern
+- Tavern / Barcade
 - Event Space
 - Cigar Shop & Smoking Lounge
 - Pool Hall / Arcade / Gaming
@@ -69,7 +69,6 @@ Since 1996, our partners have built numerous businesses generating over $100,000
 - More accountants and attorneys
 - Acupuncture / holistic healing services
 - Massage / Feet retreat
-
 
 ## Interested in working in, operating, owning, or investing in any of these businesses - or Downtown Jasper in general?
 
